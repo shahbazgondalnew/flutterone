@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "501115350845",
+    "project_id": "potent-plasma-320319",
+    "storage_bucket": "potent-plasma-320319.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501115350845:android:2402b35b28636f7b4adf54",
+        "android_client_info": {
+          "package_name": "com.example.flutterone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501115350845-uostvmruo1ngsirhh6qtuv6vtebji4c7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrFT5k1iqikUhoEJV56VhR6PHI4b2F_dQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501115350845-uostvmruo1ngsirhh6qtuv6vtebji4c7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
